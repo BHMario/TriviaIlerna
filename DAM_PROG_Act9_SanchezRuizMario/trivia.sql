@@ -39,3 +39,23 @@ CREATE TABLE Partida (
 
 
 INSERT INTO Usuario (nombre_usuario, contrasena, tipo) VALUES
+("usuario1", "IlernaSevilla", "normal"),
+("admin", "AdminIlerna", "admin");
+
+INSERT INTO Pregunta (enunciado, categoria, dificultad) VALUES
+(),
+(),
+(),
+();
+
+INSERT INTO Respuesta (texto, esCorrecta) VALUES
+(),
+(),
+(),
+();
+
+INSERT INTO Partida (fecha, puntuaje) VALUES
+(),
+(),
+(),
+();
