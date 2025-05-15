@@ -39,6 +39,8 @@ CREATE TABLE Partida (
 
 
 INSERT INTO Usuario (nombre_usuario, contrasena, tipo) VALUES
+=======
+INSERT INTO Usuario (nombre_usuario, contrasena, tipo) VALUES
 ("usuario1", "IlernaSevilla", "normal"),
 ("admin", "AdminIlerna", "admin");
 
